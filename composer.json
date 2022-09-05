@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/xenforo-thread-starter",
+  "name": "cmfstore/xenforo-ext-thread-starter",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
@@ -18,8 +18,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-thread-starter/issues",
-    "source": "https://github.com/cmfstore/xenforo-thread-starter"
+    "issues": "https://github.com/cmfstore/xenforo-ext-thread-starter/issues",
+    "source": "https://github.com/cmfstore/xenforo-ext-thread-starter"
   },
   "require": {
     "composer/installers": "^1.9"
