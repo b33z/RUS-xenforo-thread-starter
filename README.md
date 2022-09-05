@@ -22,7 +22,3 @@
 1. [Загрузить](https://github.com/cmfstore/xenforo-thread-starter/tags) архив с новой версией расширения.
 2. Распаковать содержимое архива в `/src/addons/CMFStore/ext_f830d4bf/`, сохраняя структуру директорий, заменяя существующие файлы и папки.
 3. Зайти в **AdminCP**, далее *Add-ons*, и обновить необходимое расширение.
-
-## Donations
-
-- [Donation Form](https://donation-form.github.io/)
