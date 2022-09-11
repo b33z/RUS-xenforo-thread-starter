@@ -1,9 +1,9 @@
 {
-  "name": "cmfstore/xenforo-ext-thread-starter",
+  "name": "zmarket/xenforo-ext-thread-starter",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
-  "homepage": "https://github.com/cmfstore",
+  "homepage": "https://z17.dev/",
   "keywords": [
     "xenforo",
     "thread",
@@ -18,8 +18,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-ext-thread-starter/issues",
-    "source": "https://github.com/cmfstore/xenforo-ext-thread-starter"
+    "issues": "https://github.com/zbox/xenforo-ext-thread-starter/issues",
+    "source": "https://github.com/zbox/xenforo-ext-thread-starter"
   },
   "require": {
     "composer/installers": "^1.9"
