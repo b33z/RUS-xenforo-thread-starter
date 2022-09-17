@@ -11,9 +11,15 @@
   ],
   "authors": [
     {
-      "name": "Kitsune Solar",
-      "email": "kitsune.solar@gmail.com",
-      "homepage": "https://KitsuneSolar.com",
+      "name": "z17 Development",
+      "email": "mail@z17.dev",
+      "homepage": "https://z17.dev/",
+      "role": "Developer"
+    },
+    {
+      "name": "z17 CX",
+      "email": "mail@z17.cx",
+      "homepage": "https://z17.cx/",
       "role": "Developer"
     }
   ],
