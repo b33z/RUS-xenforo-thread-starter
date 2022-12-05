@@ -1,9 +1,9 @@
 {
-  "name": "zmarket/xenforo-ext-thread-starter",
+  "name": "pkgstore/xenforo-ext-thread-starter",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
-  "homepage": "https://z17.dev/",
+  "homepage": "https://v77.dev/",
   "keywords": [
     "xenforo",
     "thread",
@@ -11,21 +11,21 @@
   ],
   "authors": [
     {
-      "name": "z17 Development",
-      "email": "mail@z17.dev",
-      "homepage": "https://z17.dev/",
+      "name": "v77 Development",
+      "email": "mail@v77.dev",
+      "homepage": "https://v77.dev/",
       "role": "Developer"
     },
     {
-      "name": "z17 CX",
-      "email": "mail@z17.cx",
-      "homepage": "https://z17.cx/",
-      "role": "Developer"
+      "name": "Kitsune Solar",
+      "email": "mail@kitsune.solar",
+      "homepage": "https://kitsune.solar/",
+      "role": "Translator"
     }
   ],
   "support": {
-    "issues": "https://github.com/zbox/xenforo-ext-thread-starter/issues",
-    "source": "https://github.com/zbox/xenforo-ext-thread-starter"
+    "issues": "https://github.com/pkgstore/xenforo-ext-thread-starter/issues",
+    "source": "https://github.com/pkgstore/xenforo-ext-thread-starter"
   },
   "require": {
     "composer/installers": "^1.9"

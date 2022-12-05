@@ -1,6 +1,6 @@
 <?php
 
-namespace Z17\ext_f830d4bf;
+namespace PkgStore\ext_f830d4bf;
 
 use XF\AddOn\AbstractSetup;
 

@@ -4,9 +4,9 @@
   "description": "(ext_f830d4bf)",
   "version_id": 1000070,
   "version_string": "1.0.0",
-  "dev": "z17 Development",
-  "dev_url": "https://z17.dev/",
-  "support_url": "https://github.com/zbox/xenforo-ext-thread-starter/issues",
+  "dev": "v77 Development",
+  "dev_url": "https://v77.dev/",
+  "support_url": "https://github.com/pkgstore/xenforo-ext-thread-starter/issues",
   "require": {
     "XF": [
       2010070,
