@@ -6,7 +6,7 @@
   "version_string": "1.0.0",
   "dev": "v77 Development",
   "dev_url": "https://v77.dev/",
-  "support_url": "https://github.com/pkgstore/xenforo-ext-thread-starter/issues",
+  "support_url": "https://github.com/pkgstore/xenforo-thread-starter/issues",
   "require": {
     "XF": [
       2010070,

@@ -1,5 +1,5 @@
 {
-  "name": "pkgstore/xenforo-ext-thread-starter",
+  "name": "pkgstore/xenforo-thread-starter",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
@@ -24,8 +24,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/pkgstore/xenforo-ext-thread-starter/issues",
-    "source": "https://github.com/pkgstore/xenforo-ext-thread-starter"
+    "issues": "https://github.com/pkgstore/xenforo-thread-starter/issues",
+    "source": "https://github.com/pkgstore/xenforo-thread-starter"
   },
   "require": {
     "composer/installers": "^1.9"
